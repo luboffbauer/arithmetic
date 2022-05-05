@@ -8,3 +8,7 @@ func IsPrime(num int) bool {
 	}
 	return true
 }
+
+func Add(a, b int) int {
+	return a + b
+}
